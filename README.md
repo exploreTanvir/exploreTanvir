@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tanvir Hossen Raju</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/499731/screenshots/3345216/file_gif.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirhossen853&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirhossen853" /> </p>
