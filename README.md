@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exploreTanvir&label=Profile%20views&color=0e75b6&style=flat" alt="exploreTanvir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/exploreTanvir" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirhossen853?logo=twitter&style=for-the-badge" alt="exploreTanvir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/exploreTanvir" target="blank"><img src="https://img.shields.io/twitter/follow/exploreTanvir?logo=twitter&style=for-the-badge" alt="exploreTanvir" /></a> </p>
 
 
 - 🔭 I’m currently working on **Coding Sports**
