@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D5616AQFN9DU7qOmwog/profile-displaybackgroundimage-shrink_350_1400/0/1681662436199?e=1687392000&v=beta&t=7iA7_i8jYlDtGXpQM90G9BTU4s_t4-VESDG-plchHwQ)
+![](https://media.licdn.com/dms/image/D5616AQHdM_909qRhbg/profile-displaybackgroundimage-shrink_350_1400/0/1686682506053?e=1692230400&v=beta&t=vOLbLg0QGey0M9ga-ybrDfIbMSjWyVo5k5MF9JzTdkk)
 
 
 
