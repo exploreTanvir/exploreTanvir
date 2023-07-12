@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Coding Sports**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Coding Sports**
 
