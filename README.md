@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [http://tahmed.epizy.com/portfolio-copy/](http://tahmed.epizy.com/portfolio-copy/)
 
-- 💬 Ask me about **WordPress , MERN**
+- 💬 Ask me about **WordPress , JS**
 
 - 📫 How to reach me **tanvirhossen853@gmail.com**
 
