@@ -1,13 +1,13 @@
-![](https://media.licdn.com/dms/image/D5616AQHUU0lNgd89YA/profile-displaybackgroundimage-shrink_350_1400/0/1703259522710?e=1708560000&v=beta&t=yKnQfbA1eYQRFRnMR7NdGVuoTzbQ2rkM-nPIZlsyKdk)
+<h1 align="center">
+  
+  ![TANVIR](gitartwork.svg)
+   
+</h1>
+![logo](https://github.com/exploreTanvir/exploreTanvir/blob/main/1.png)
 
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Tanvir Hossen Raju</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanvir+Hossen+Raju!;" />
+</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966")
 
