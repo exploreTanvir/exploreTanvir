@@ -1,8 +1,4 @@
-<h1 align="center">
-  
-  ![TANVIR](gitartwork.svg)
-   
-</h1>
+
 
 ![logo](https://github.com/exploreTanvir/exploreTanvir/blob/main/1.png)
 
@@ -51,4 +47,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exploreTanvir&" alt="exploreTanvir" /></p>
 
 
-![snake gif](https://github.com/exploreTanvi/exploreTanvir/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/exploreTanvir/exploreTanvir/blob/output/github-contribution-grid-snake.svg)
