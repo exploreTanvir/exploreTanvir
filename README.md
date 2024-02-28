@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Coding Sports**
 
-- 👨‍💻 All of my projects are available at [http://tahmed.epizy.com/portfolio-copy/](http://tahmed.epizy.com/portfolio-copy/)
+- 👨‍💻 All of my projects are available at [https://exploretanvir.github.io/portfolio/]
 
 - 💬 Ask me about **WordPress , JS ,MERN**
 
